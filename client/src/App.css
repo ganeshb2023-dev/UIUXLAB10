@@ -1,0 +1,12 @@
+
+body {
+  background-color: #f7f5f0;
+  color: #2c352d;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+input, button {
+  font-family: inherit;
+}
